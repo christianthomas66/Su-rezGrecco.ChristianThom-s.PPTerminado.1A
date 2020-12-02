@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1606873856 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1606873463 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\color.h
+
+1606910734 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"utn.h"
+
+1606765801 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\menu.h
+
+1606887660 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\utn.h
+
+1606756461 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\servicios.c
+	"servicios.h"
+
+1606756389 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\servicios.h
+
+1606756472 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1606755736 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\tipo.h
+
+1606887644 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1606910734 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"motos.h"
+	"tipo.h"
+	"color.h"
+	"servicios.h"
+	"trabajo.h"
+	"informes.h"
+	"menu.h"
+	"utn.h"
+	"clientes.h"
+
+1606910746 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\motos.h
+	"tipo.h"
+	"color.h"
+	"clientes.h"
+
+1606854091 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\trabajo.h
+	"motos.h"
+	"servicios.h"
+
+1606910766 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\informes.h
+	"clientes.h"
+
+1606910798 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"motos.h"
+	"tipo.h"
+	"color.h"
+	"servicios.h"
+	"trabajo.h"
+	"menu.h"
+	"informes.h"
+	"clientes.h"
+
+1606903076 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\motos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"motos.h"
+	"suciedad.h"
+	"utn.h"
+	"menu.h"
+
+1606874880 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"utn.h"
+	"menu.h"
+
+1606857392 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\clientes.h
+
+1606901430 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1606878784 c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\suciedad.h
+
+1606887457 source:c:\users\thomas pc\onedrive\desktop\recuperatorio 1er parcial motos completo\suciedad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"suciedad.h"
+
